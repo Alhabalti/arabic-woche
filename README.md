@@ -23,5 +23,4 @@
 3. Double-click the file and select **Install**. If the widget doesn’t appear, open **Rainmeter → Manage → Arabic Woche → logo.ini** and click **Load**.
 
 ## معاينة · Preview
-
-<img width="1813" height="1004" alt="Arabic Woche displaying Wednesday in white Arabic calligraphy on a Windows desktop" src="https://github.com/user-attachments/assets/349542ce-eb10-4367-9985-aaa13a260cf6" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-18 094457" src="https://github.com/user-attachments/assets/8b01716e-e53c-4d3b-b5e5-94faab696513" />
